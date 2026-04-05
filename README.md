@@ -4,7 +4,7 @@ A simple **console-based Bank Management System** written in Java.
 It allows users to register, create bank accounts, deposit, withdraw, transfer money, and view transaction history using file-based storage.
 ## Credit
 
-Project developed by **Soumyadwip Das** for academic purposes as part of the **Programming for Problem Solving** course.
+Project developed by **Soumyadwip Das** for academic purposes as part of the **Object Oriented Programming** course.
 
 ## How to Run
 Run the main file:
